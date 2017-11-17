@@ -15,3 +15,4 @@
       * 3p: edellinen + kuvan mittasuhteet ovat oikeat
       * 4p: edellinen + kuva zoomautuu kuvan keskipisteen suhteen vasemman yläreunan sijaan
       * 6p: edellinen + kuvan liikuttelu tehdään tarttumalla hiirellä, ja zoomaus tapahtuu hiiren rullalla# FE-6.Lomake-eventit
+# 6.Lomake-eventit
