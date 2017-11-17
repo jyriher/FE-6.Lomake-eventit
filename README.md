@@ -17,3 +17,4 @@
       * 6p: edellinen + kuvan liikuttelu tehdään tarttumalla hiirellä, ja zoomaus tapahtuu hiiren rullalla# FE-6.Lomake-eventit
 # 6.Lomake-eventit
 # FE-6.-Lomake-eventit
+# FE-6.Lomake-eventit
